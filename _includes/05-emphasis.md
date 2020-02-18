@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I make it happen*
+
+_I gets it done_
+
+**I make it real**
+
+_I **am** the one**
