@@ -1,1 +1,1 @@
-![Image of AKS](https://msftsean.github.com/azure%20containers.png)
+![Image of AKS](https://msftsean.github.com/images/azure%20containers.png)
